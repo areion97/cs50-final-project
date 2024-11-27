@@ -1,0 +1,245 @@
+Afghanistan                                                           |Via Prova|2|Kabul
+Albania                                                               |Via Prova|3|Rome
+Algeria                                                               |Via Prova|4|Rome
+American Samoa                                                        |Via Prova|4|Rome
+Andorra                                                               |Via Prova|4|Rome
+Angola                                                                |Via Prova|4|Rome
+Anguilla                                                              |Via Prova|4|Rome
+Antarctica                                                            |Via Prova|4|Rome
+Antigua and Barbuda                                                   |Via Prova|4|Rome
+Argentina                                                             |Via Prova|4|Rome
+Armenia                                                               |Via Prova|4|Rome
+Aruba                                                                 |Via Prova|4|Rome
+Australia                                                             |Via Prova|4|Rome
+Austria                                                               |Via Prova|4|Rome
+Azerbaijan                                                            |Via Prova|4|Rome
+Bahamas                                                               |Via Prova|4|Rome
+Bahrain                                                               |Via Prova|4|Rome
+Bangladesh                                                            |Via Prova|4|Rome
+Barbados                                                              |Via Prova|4|Rome
+Belarus                                                               |Via Prova|4|Rome
+Belgium                                                               |Via Prova|4|Rome
+Belize                                                                |Via Prova|4|Rome
+Benin                                                                 |Via Prova|4|Rome
+Bermuda                                                               |Via Prova|4|Rome
+Bhutan                                                                |Via Prova|4|Rome
+Bolivia                                                               |Via Prova|4|Rome
+Bosnia and Herzegovina                                                |Via Prova|4|Rome
+Botswana                                                              |Via Prova|4|Rome
+Bouvet Island                                                         |Via Prova|4|Rome
+Brazil                                                                |Via Prova|4|Rome
+British Indian Ocean Territory                                        |Via Prova|4|Rome
+British Virgin Islands                                                |Via Prova|4|Rome
+Brunei                                                                |Via Prova|4|Rome
+Bulgaria                                                              |Via Prova|4|Rome
+Burkina Faso                                                          |Via Prova|4|Rome
+Burundi                                                               |Via Prova|4|Rome
+Cambodia                                                              |Via Prova|4|Rome
+Cameroon                                                              |Via Prova|4|Rome
+Canada                                                                |Via Prova|4|Rome
+Cape Verde                                                            |Via Prova|4|Rome
+Cayman Islands                                                        |Via Prova|4|Rome
+Central African Republic                                              |Via Prova|4|Rome
+Chad                                                                  |Via Prova|4|Rome
+Chile                                                                 |Via Prova|4|Rome
+China                                                                 |Via Prova|4|Rome
+Christmas Island                                                      |Via Prova|4|Rome
+Cocos [Keeling] Islands                                               |Via Prova|4|Rome
+Colombia                                                              |Via Prova|4|Rome
+Comoros                                                               |Via Prova|4|Rome
+Congo [DRC]                                                           |Via Prova|4|Rome
+Congo [Republic]                                                      |Via Prova|4|Rome
+Cook Islands                                                          |Via Prova|4|Rome
+Costa Rica                                                            |Via Prova|4|Rome
+Croatia                                                               |Via Prova|4|Rome
+Cuba                                                                  |Via Prova|4|Rome
+Cyprus                                                                |Via Prova|4|Rome
+Czech Republic                                                        |Via Prova|4|Rome
+Côte d'Ivoire                                                         |Via Prova|4|Rome
+Denmark                                                               |Via Prova|4|Rome
+Djibouti                                                              |Via Prova|4|Rome
+Dominica                                                              |Via Prova|4|Rome
+Dominican Republic                                                    |Via Prova|4|Rome
+Ecuador                                                               |Via Prova|4|Rome
+Egypt                                                                 |Via Prova|4|Rome
+El Salvador                                                           |Via Prova|4|Rome
+Equatorial Guinea                                                     |Via Prova|4|Rome
+Eritrea                                                               |Via Prova|4|Rome
+Estonia                                                               |Via Prova|4|Rome
+Ethiopia                                                              |Via Prova|4|Rome
+Falkland Islands [Islas Malvinas]                                     |Via Prova|4|Rome
+Faroe Islands                                                         |Via Prova|4|Rome
+Fiji                                                                  |Via Prova|4|Rome
+Finland                                                               |Via Prova|4|Rome
+France                                                                |Via Prova|4|Rome
+French Guiana                                                         |Via Prova|4|Rome
+French Polynesia                                                      |Via Prova|4|Rome
+French Southern Territories                                           |Via Prova|4|Rome
+Gabon                                                                 |Via Prova|4|Rome
+Gambia                                                                |Via Prova|4|Rome
+Gaza Strip                                                            |Via Prova|4|Rome
+Georgia                                                               |Via Prova|4|Rome
+Germany                                                               |Via Prova|4|Rome
+Ghana                                                                 |Via Prova|4|Rome
+Gibraltar                                                             |Via Prova|4|Rome
+Greece                                                                |Via Prova|4|Rome
+Greenland                                                             |Via Prova|4|Rome
+Grenada                                                               |Via Prova|4|Rome
+Guadeloupe                                                            |Via Prova|4|Rome
+Guam                                                                  |Via Prova|4|Rome
+Guatemala                                                             |Via Prova|4|Rome
+Guernsey                                                              |Via Prova|4|Rome
+Guinea                                                                |Via Prova|4|Rome
+Guinea-Bissau                                                         |Via Prova|4|Rome
+Guyana                                                                |Via Prova|4|Rome
+Haiti                                                                 |Via Prova|4|Rome
+Heard Island and McDonald Islands                                     |Via Prova|4|Rome
+Honduras                                                              |Via Prova|4|Rome
+Hong Kong                                                             |Via Prova|4|Rome
+Hungary                                                               |Via Prova|4|Rome
+Iceland                                                               |Via Prova|4|Rome
+India                                                                 |Via Prova|4|Rome
+Indonesia                                                             |Via Prova|4|Rome
+Iran                                                                  |Via Prova|4|Rome
+Iraq                                                                  |Via Prova|4|Rome
+Ireland                                                               |Via Prova|4|Rome
+Isle of Man                                                           |Via Prova|4|Rome
+Israel                                                                |Via Prova|4|Rome
+Italy                                                                 |Via Prova|4|Rome
+Jamaica                                                               |Via Prova|4|Rome
+Japan                                                                 |Via Prova|4|Rome
+Jersey                                                                |Via Prova|4|Rome
+Jordan                                                                |Via Prova|4|Rome
+Kazakhstan                                                            |Via Prova|4|Rome
+Kenya                                                                 |Via Prova|4|Rome
+Kiribati                                                              |Via Prova|4|Rome
+Kosovo                                                                |Via Prova|4|Rome
+Kuwait                                                                |Via Prova|4|Rome
+Kyrgyzstan                                                            |Via Prova|4|Rome
+Laos                                                                  |Via Prova|4|Rome
+Latvia                                                                |Via Prova|4|Rome
+Lebanon                                                               |Via Prova|4|Rome
+Lesotho                                                               |Via Prova|4|Rome
+Liberia                                                               |Via Prova|4|Rome
+Libya                                                                 |Via Prova|4|Rome
+Liechtenstein                                                         |Via Prova|4|Rome
+Lithuania                                                             |Via Prova|4|Rome
+Luxembourg                                                            |Via Prova|4|Rome
+Macau                                                                 |Via Prova|4|Rome
+Macedonia [FYROM]                                                     |Via Prova|4|Rome
+Madagascar                                                            |Via Prova|4|Rome
+Malawi                                                                |Via Prova|4|Rome
+Malaysia                                                              |Via Prova|4|Rome
+Maldives                                                              |Via Prova|4|Rome
+Mali                                                                  |Via Prova|4|Rome
+Malta                                                                 |Via Prova|4|Rome
+Marshall Islands                                                      |Via Prova|4|Rome
+Martinique                                                            |Via Prova|4|Rome
+Mauritania                                                            |Via Prova|4|Rome
+Mauritius                                                             |Via Prova|4|Rome
+Mayotte                                                               |Via Prova|4|Rome
+Mexico                                                                |Via Prova|4|Rome
+Micronesia                                                            |Via Prova|4|Rome
+Moldova                                                               |Via Prova|4|Rome
+Monaco                                                                |Via Prova|4|Rome
+Mongolia                                                              |Via Prova|4|Rome
+Montenegro                                                            |Via Prova|4|Rome
+Montserrat                                                            |Via Prova|4|Rome
+Morocco                                                               |Via Prova|4|Rome
+Mozambique                                                            |Via Prova|4|Rome
+Myanmar [Burma]                                                       |Via Prova|4|Rome
+Namibia                                                               |Via Prova|4|Rome
+Nauru                                                                 |Via Prova|4|Rome
+Nepal                                                                 |Via Prova|4|Rome
+Netherlands                                                           |Via Prova|4|Rome
+Netherlands Antilles                                                  |Via Prova|4|Rome
+New Caledonia                                                         |Via Prova|4|Rome
+New Zealand                                                           |Via Prova|4|Rome
+Nicaragua                                                             |Via Prova|4|Rome
+Niger                                                                 |Via Prova|4|Rome
+Nigeria                                                               |Via Prova|4|Rome
+Niue                                                                  |Via Prova|4|Rome
+Norfolk Island                                                        |Via Prova|4|Rome
+North Korea                                                           |Via Prova|4|Rome
+Northern Mariana Islands                                              |Via Prova|4|Rome
+Norway                                                                |Via Prova|4|Rome
+Oman                                                                  |Via Prova|4|Rome
+Pakistan                                                              |Via Prova|4|Rome
+Palau                                                                 |Via Prova|4|Rome
+Palestinian Territories                                               |Via Prova|4|Rome
+Panama                                                                |Via Prova|4|Rome
+Papua New Guinea                                                      |Via Prova|4|Rome
+Paraguay                                                              |Via Prova|4|Rome
+Peru                                                                  |Via Prova|4|Rome
+Philippines                                                           |Via Prova|4|Rome
+Pitcairn Islands                                                      |Via Prova|4|Rome
+Poland                                                                |Via Prova|4|Rome
+Portugal                                                              |Via Prova|4|Rome
+Puerto Rico                                                           |Via Prova|4|Rome
+Qatar                                                                 |Via Prova|4|Rome
+Romania                                                               |Via Prova|4|Rome
+Russia                                                                |Via Prova|4|Rome
+Rwanda                                                                |Via Prova|4|Rome
+Réunion                                                               |Via Prova|4|Rome
+Saint Helena                                                          |Via Prova|4|Rome
+Saint Kitts and Nevis                                                 |Via Prova|4|Rome
+Saint Lucia                                                           |Via Prova|4|Rome
+Saint Pierre and Miquelon                                             |Via Prova|4|Rome
+Saint Vincent and the Grenadines                                      |Via Prova|4|Rome
+Samoa                                                                 |Via Prova|4|Rome
+San Marino                                                            |Via Prova|4|Rome
+Saudi Arabia                                                          |Via Prova|4|Rome
+Senegal                                                               |Via Prova|4|Rome
+Serbia                                                                |Via Prova|4|Rome
+Seychelles                                                            |Via Prova|4|Rome
+Sierra Leone                                                          |Via Prova|4|Rome
+Singapore                                                             |Via Prova|4|Rome
+Slovakia                                                              |Via Prova|4|Rome
+Slovenia                                                              |Via Prova|4|Rome
+Solomon Islands                                                       |Via Prova|4|Rome
+Somalia                                                               |Via Prova|4|Rome
+South Africa                                                          |Via Prova|4|Rome
+South Georgia and the South Sandwich Islands                          |Via Prova|4|Rome
+South Korea                                                           |Via Prova|4|Rome
+Spain                                                                 |Via Prova|4|Rome
+Sri Lanka                                                             |Via Prova|4|Rome
+Sudan                                                                 |Via Prova|4|Rome
+Suriname                                                              |Via Prova|4|Rome
+Svalbard and Jan Mayen                                                |Via Prova|4|Rome
+Swaziland                                                             |Via Prova|4|Rome
+Sweden                                                                |Via Prova|4|Rome
+Switzerland                                                           |Via Prova|4|Rome
+Syria                                                                 |Via Prova|4|Rome
+São Tomé and Príncipe                                                 |Via Prova|4|Rome
+Taiwan                                                                |Via Prova|4|Rome
+Tajikistan                                                            |Via Prova|4|Rome
+Tanzania                                                              |Via Prova|4|Rome
+Thailand                                                              |Via Prova|4|Rome
+Timor-Leste                                                           |Via Prova|4|Rome
+Togo                                                                  |Via Prova|4|Rome
+Tokelau                                                               |Via Prova|4|Rome
+Tonga                                                                 |Via Prova|4|Rome
+Trinidad and Tobago                                                   |Via Prova|4|Rome
+Tunisia                                                               |Via Prova|4|Rome
+Turkey                                                                |Via Prova|4|Rome
+Turkmenistan                                                          |Via Prova|4|Rome
+Turks and Caicos Islands                                              |Via Prova|4|Rome
+Tuvalu                                                                |Via Prova|4|Rome
+U.S. Minor Outlying Islands                                           |Via Prova|4|Rome
+U.S. Virgin Islands                                                   |Via Prova|4|Rome
+Uganda                                                                |Via Prova|4|Rome
+Ukraine                                                               |Via Prova|4|Rome
+United Arab Emirates                                                  |Via Prova|4|Rome
+United Kingdom                                                        |Via Prova|4|Rome
+United States                                                         |Via Prova|4|Rome
+Uruguay                                                               |Via Prova|4|Rome
+Uzbekistan                                                            |Via Prova|4|Rome
+Vanuatu                                                               |Via Prova|4|Rome
+Vatican City                                                          |Via Prova|4|Rome
+Venezuela                                                             |Via Prova|4|Rome
+Vietnam                                                               |Via Prova|4|Rome
+Wallis and Futuna                                                     |Via Prova|4|Rome
+Western Sahara                                                        |Via Prova|4|Rome
+Yemen                                                                 |Via Prova|4|Rome
+Zambia                                                                |Via Prova|4|Rome
+Zimbabwe                                                              |Via Prova|4|Rome
