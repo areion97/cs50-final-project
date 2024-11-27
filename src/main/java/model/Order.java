@@ -1,4 +1,4 @@
-package model;
+package main.java.model;
 
 import enumeration.DeliveryStatus;
 import lombok.Getter;

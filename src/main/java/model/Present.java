@@ -1,4 +1,4 @@
-package model;
+package main.java.model;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -14,12 +14,12 @@ The application is written in Java and its function is to represent Santa Clause
 The main structure of the project is based on MVC pattern which best suits the task.
 MVC goes well with CRUD operations because you have objects that are constantly
 created, read, updated and deleted and, in order to handle this, you need to have
-a pattern that keeps everything separated: model, view and controller.
-The model is the part that contains data structures, the controller is the part in which it's implemented the logic of the program and finally the view is the way you want data to appear on screen or output in general.
+a pattern that keeps everything separated: main.java.model, view and controller.
+The main.java.model is the part that contains data structures, the controller is the part in which it's implemented the logic of the program and finally the view is the way you want data to appear on screen or output in general.
 
 Utils Classes have been used for reading files and formatting strings; this approach was adopted for project modularity and reusability.
 
-Another important thing to punctualize is the use of a model object that contains abstract logic as well.
+Another important thing to punctualize is the use of a main.java.model object that contains abstract logic as well.
 This could be for example the Order class which contains a setDeliveryStatus method which is for
 handling status update. And as you can see from this code:
 
@@ -33,8 +33,8 @@ handling status update. And as you can see from this code:
         }
     }
 ```
-you're telling your model to update itself only if certain conditions are met.
-So, in a sense also model can have logic, but it needs to impact the object itself not other objects.
+you're telling your main.java.model to update itself only if certain conditions are met.
+So, in a sense also main.java.model can have logic, but it needs to impact the object itself not other objects.
 This logic can be seen as a graph so for sure it's an abstract logic turned into practice.
 
 

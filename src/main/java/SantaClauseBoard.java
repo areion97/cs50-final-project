@@ -1,8 +1,10 @@
+package main.java;
+
 import enumeration.DeliveryStatus;
-import model.Order;
-import model.Present;
-import utils.FileUtils;
-import utils.StringUtils;
+import main.java.model.Order;
+import main.java.model.Present;
+import main.java.utils.FileUtils;
+import main.java.utils.StringUtils;
 
 import java.util.*;
 
