@@ -2,10 +2,6 @@
 #### Video Demo:  https://www.youtube.com/watch?v=AulA-1d5m0M
 #### Description:
 
-# Babbo Natale is again among us
-#### Video Demo:  https://www.youtube.com/watch?v=AulA-1d5m0M
-#### Description:
-
 
 This is the final Project of CS50.
 
