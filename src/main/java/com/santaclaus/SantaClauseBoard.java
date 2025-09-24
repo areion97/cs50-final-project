@@ -1,12 +1,11 @@
-package main.java;
-
-import enumeration.DeliveryStatus;
-import main.java.model.Order;
-import main.java.model.Present;
-import main.java.utils.FileUtils;
-import main.java.utils.StringUtils;
+package com.santaclaus;
 
 import java.util.*;
+import com.santaclaus.model.Order;
+import com.santaclaus.model.Present;
+import com.santaclaus.utils.FileUtils;
+import com.santaclaus.utils.StringUtils;
+import com.santaclaus.enumeration.DeliveryStatus;
 
 public class SantaClauseBoard {
     private static HashMap<String, Order> nationOrderHashMap;

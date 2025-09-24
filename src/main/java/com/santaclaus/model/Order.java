@@ -1,6 +1,6 @@
-package main.java.model;
+package com.santaclaus.model;
 
-import enumeration.DeliveryStatus;
+import com.santaclaus.enumeration.DeliveryStatus;
 import lombok.Getter;
 
 import java.util.List;
@@ -22,6 +22,16 @@ public class Order {
         ) {
             this.deliveryStatus = deliveryStatus;
         }
+    }
+
+    // Add getter for presentList
+    public List<Present> getPresentList() {
+        return presentList;
+    }
+
+    // Add getter for deliveryStatus
+    public DeliveryStatus getDeliveryStatus() {
+        return deliveryStatus;
     }
 }
 

@@ -1,10 +1,9 @@
-package main.java.utils;
+package com.santaclaus.utils;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 /**
  * Manipulates a | formatted File
  */
@@ -32,6 +31,12 @@ public class FileUtils {
 
         }catch (IOException e) {
             throw new RuntimeException(e);
+        }finally {
+            try {
+                bufferedReader.close();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
         }
     }
 

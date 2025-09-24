@@ -1,4 +1,4 @@
-package enumeration;
+package com.santaclaus.enumeration;
 
 public enum DeliveryStatus {
     NOT_PREPARED("NOT_PREPARED"),

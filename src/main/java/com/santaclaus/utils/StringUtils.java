@@ -1,4 +1,4 @@
-package main.java.utils;
+package com.santaclaus.utils;
 
 /**
  * String formatting and restructuring
