@@ -1,4 +1,5 @@
 package com.santaclaus.model;
+
 import lombok.Getter;
 import lombok.Setter;
 

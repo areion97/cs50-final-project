@@ -47,7 +47,7 @@ public class SantaClauseBoard {
             Order order = new Order();
             order.setPresentList(presentList);
 
-            nationOrderHashMap.put(order.getPresentList().get(0).getNation(), order);
+            nationOrderHashMap.put(order.getPresentList().getFirst().getNation(), order);
             j += numOfPresents;
 
         }
@@ -56,11 +56,9 @@ public class SantaClauseBoard {
 
 
     public static void main(String[] args) {
-
+        new SantaClauseBoard();
         // Initializes Santa Clause Board
-        SantaClauseBoard santaClauseBoard = new SantaClauseBoard();
-
-        String input = "";
+        String input;
         do {
             System.out.println("1) Show delivery status");
             System.out.println("2) Prepare Order");
@@ -79,7 +77,7 @@ public class SantaClauseBoard {
             }
             else
             if("2".equals(input)) {
-                Order order = null;
+                Order order;
                 do {
                     input = scanner.nextLine();
                     order = nationOrderHashMap.get(input);
